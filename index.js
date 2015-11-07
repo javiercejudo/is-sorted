@@ -1,16 +1,6 @@
-function defaultSort (a, b) {
-  return a - b
-}
+var every2 = require('every2');
+var lte = require('lodash.lte');
 
-module.exports = function checksort (array, compare) {
-  compare = compare || defaultSort
-
-  for (var i = 1; i < array.length; ++i) {
-    var a = array[i - 1]
-    var b = array[i]
-
-    if (compare(a, b) > 0) return false
-  }
-
-  return true
-}
+module.exports = function sorted (array, check) {
+  return every2(array, check || lte);
+};

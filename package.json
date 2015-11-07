@@ -4,7 +4,7 @@
   "description": "A small module to check if an Array is sorted",
   "main": "index.js",
   "scripts": {
-    "standard": "standard",
+    "standard": "semistandard",
     "test": "npm run-script unit",
     "unit": "mocha"
   },
@@ -28,7 +28,12 @@
   "author": "Daniel Cousens",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "*",
-    "standard": "*"
+    "lodash.gte": "^3.9.0",
+    "mocha": "^2.3.3",
+    "semistandard": "^7.0.2"
+  },
+  "dependencies": {
+    "every2": "^1.0.2",
+    "lodash.lte": "^3.9.0"
   }
 }
