@@ -1,6 +1,6 @@
 {
   "name": "functional-is-sorted",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A small module to check if an Array is sorted",
   "main": "index.js",
   "scripts": {
