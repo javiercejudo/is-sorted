@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcousens/is-sorted.git"
+    "url": "https://github.com/javiercejudo/is-sorted.git"
   },
   "bugs": {
-    "url": "https://github.com/dcousens/is-sorted/issues"
+    "url": "https://github.com/javiercejudo/is-sorted/issues"
   },
-  "homepage": "https://github.com/dcousens/is-sorted",
+  "homepage": "https://github.com/javiercejudo/is-sorted",
   "keywords": [
     "is-sorted",
     "sorting",
