@@ -33,7 +33,7 @@
     "semistandard": "^7.0.2"
   },
   "dependencies": {
-    "every2": "^1.0.2",
+    "every2": "^2.0.0",
     "lodash.lte": "^3.9.0"
   }
 }
