@@ -29,7 +29,7 @@
   "license": "MIT",
   "devDependencies": {
     "lodash.gte": "^3.9.0",
-    "mocha": "^2.3.3",
+    "mocha": "^3.0.2",
     "semistandard": "^7.0.2"
   },
   "dependencies": {
