@@ -30,7 +30,7 @@
   "devDependencies": {
     "lodash.gte": "^3.9.0",
     "mocha": "^2.3.3",
-    "semistandard": "^7.0.2"
+    "semistandard": "^9.0.0"
   },
   "dependencies": {
     "every2": "^2.0.0",
